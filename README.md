@@ -1,6 +1,7 @@
 # Douglas Louteiro
 
 **Full Stack Developer** · Laravel & Web · software architecture · continuous learning
+
 Curitiba, Brazil · open to opportunities
 
 ---
